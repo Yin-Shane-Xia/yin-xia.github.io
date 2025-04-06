@@ -9,11 +9,10 @@ redirect_from:
 
 Bio
 ======
-I'm a machine learning Engineer at Apple Inc. Before that, I worked on robotics projects including robotic arms and autonamous delivery vechile in JD.com.
+I'm currently a Machine Learning Engineer at Apple Inc. My contributes cover: Post-training of LLM for [Apple intelligence](https://www.apple.com/apple-intelligence/); and on-device computer vision product [Visual Look Up](https://www.youtube.com/watch?v=-09HPC9MMGY)
 
-I obtained my Ph.D from [Northwestern University](https://www.mccormick.northwestern.edu/electrical-computer/), advised by Prof. [Ying Wu](https://www.eecs.northwestern.edu/~yingwu/).
+Prior to this, I worked in JD.com on visual systems of robotics, encompassing the development and implementation of 9-axis robotic arm systems for [warehouse automation](https://www.youtube.com/watch?v=RFV8IkY52iY) and autonomous [delivery vechile](https://www.youtube.com/watch?v=ACrMSno7z9I). I obtained my Ph.D from [Northwestern University](https://www.mccormick.northwestern.edu/electrical-computer/), advised by Prof. [Ying Wu](https://www.eecs.northwestern.edu/~yingwu/).
 
-<!-- I contributed to [Apple intelligence](https://www.apple.com/apple-intelligence/) on post-training of [foundation model](https://machinelearning.apple.com/research/introducing-apple-foundation-models). -->
 
 News
 ======

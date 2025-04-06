@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,37 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
+Experience
+======
+* Fall 2021 - Now: Apple Inc.
+  * Apple intelligence
+  * Visual intelligence
+
+* Fall 2018 - Fall 2021: JDX, AI lab of JD.com
+  * Robitic arm visual system
+  * Autonamous delivery vechile
+
+* Summer 2016: Research Intern, Google
+  * Multi modal search
+
+* Summer 2015: Research Intern, SRI international
+  * Autonamous driving
+
+* Summer 2014: Research Intern, Siemens Corporate Research
+  * Visual tracking of medical devices
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, Northwestern University, 2018
+  * Electrical Engineering
+* M.S., Northwestern University, 2014
+  * Electrical Engineering
+* B.S., Huazhong University of Sience and Technology, 2011
+  * Electrical and Information Engineering, Summa Cum laude
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -47,7 +44,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
